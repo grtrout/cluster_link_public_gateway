@@ -1,0 +1,11 @@
+export privateEnvId="ENV_ID"
+export privateClusterId="LKC_ID"
+export privateBootstrap="BOOTSTRAP_URL:9092"
+export privateApiKey="API_KEY"
+export privateApiSecret="API_SECRET"
+
+export publicEnvId="ENV_ID"
+export publicClusterId="LKC_ID"
+export publicBootstrap="BOOTSTRAP_URL:9092"
+export publicApiKey="API_KEY"
+export publicApiSecret="API_SECRET"
